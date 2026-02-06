@@ -1,0 +1,120 @@
+# Integração Vertical e Horizontal  
+## Estudo de Caso – WEG S.A.
+
+Disciplina: Integração Vertical e Horizontal  
+Curso: Análise e Desenvolvimento de Sistemas  
+Instituição: SENAI  
+Professor: Prof. Me. Deivison S. Takatu  
+
+---
+
+## 1. Introdução
+
+A transformação digital da indústria brasileira exige que as empresas integrem seus processos produtivos, tecnológicos e gerenciais. A indústria moderna não opera mais por meio de sistemas isolados, mas sim como um ecossistema conectado, no qual dados fluem do chão de fábrica até os níveis estratégicos da organização.
+
+A integração vertical e horizontal permite que informações sejam utilizadas para melhorar a eficiência, reduzir custos, elevar a qualidade e apoiar a tomada de decisão em tempo real.
+
+Este trabalho apresenta um estudo de caso da empresa brasileira **WEG S.A.**, demonstrando como a integração de sistemas pode favorecer a competitividade industrial.
+
+---
+
+## 2. Integração Vertical
+
+A integração vertical conecta os diferentes níveis da pirâmide da automação, garantindo comunicação entre sensores, sistemas de controle, sistemas de execução da manufatura e sistemas corporativos.
+
+Na WEG, essa integração ocorre da seguinte forma:
+
+- Sensores e CLPs coletam dados das máquinas
+- Sistemas SCADA e DCS monitoram o processo produtivo
+- O MES acompanha a produção em tempo real
+- O ERP gerencia estoques, pedidos e custos
+- O BI transforma os dados em informações estratégicas
+
+Isso permite decisões rápidas, redução de falhas e maior controle sobre a produção.
+
+---
+
+## 3. Integração Horizontal
+
+A integração horizontal conecta todos os processos da cadeia de valor, desde fornecedores até os clientes.
+
+Na WEG, essa integração permite:
+
+- Comunicação direta com fornecedores para reposição de matéria-prima
+- Planejamento integrado da produção
+- Integração com logística e distribuição
+- Acompanhamento de pedidos pelos clientes
+
+Essa abordagem elimina silos organizacionais e melhora o fluxo de informações.
+
+---
+
+## 4. Fundamentos Tecnológicos
+
+A WEG utiliza diversas tecnologias para suportar a integração, incluindo:
+
+- Redes industriais
+- CLPs
+- Sistemas SCADA e DCS
+- Sistemas MES
+- ERP corporativo
+- Computação em nuvem
+- Business Intelligence (BI)
+
+Essas tecnologias permitem a comunicação segura e confiável entre máquinas, sistemas e pessoas.
+
+---
+
+## 5. Sistemas Corporativos
+
+Os sistemas corporativos da WEG conectam a produção à gestão empresarial.
+
+O ERP controla:
+- Compras
+- Estoques
+- Custos
+- Vendas
+- Planejamento da produção
+
+O MES garante que os dados do chão de fábrica estejam alinhados com o ERP, permitindo total rastreabilidade dos produtos.
+
+---
+
+## 6. Dados Industriais
+
+Os dados industriais são considerados ativos estratégicos. Na WEG, eles são usados para:
+
+- Manutenção preditiva
+- Redução de desperdícios
+- Aumento da produtividade
+- Melhoria da qualidade
+- Apoio à tomada de decisões
+
+Esses dados são analisados por sistemas de BI que transformam informações brutas em indicadores gerenciais.
+
+---
+
+## 7. Benefícios da Integração
+
+A integração vertical e horizontal proporciona à WEG:
+
+- Redução de custos
+- Maior eficiência operacional
+- Melhor controle de qualidade
+- Decisões mais rápidas
+- Maior competitividade no mercado global
+
+---
+
+## 8. Conclusão
+
+A integração de sistemas permite que a WEG opere de forma inteligente, conectada e orientada por dados. Ao integrar automação, sistemas corporativos e cadeia de valor, a empresa alcança maior eficiência, confiabilidade e competitividade, atendendo às exigências da indústria moderna.
+
+---
+
+## Referências
+
+CAIÇARA JÚNIOR, Cícero. *Sistemas integrados de gestão: ERP – uma abordagem gerencial*.  
+SANTOS, Jadir Perpétuo dos. *Sistemas integrados de gestão*.  
+LARA, Carla Eduarda Orlando de Moraes de. *Automação e controle industrial*.  
+GROOVER, M. P. *Automação industrial e sistemas de manufatura*.  
