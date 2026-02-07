@@ -1,2 +1,2 @@
-# Auladesexta
-Atividades da aula de integração vertical e hotizontal
+# Integração vertical e horizontal na indústria
+Resumo geral das aulas e atividades 
